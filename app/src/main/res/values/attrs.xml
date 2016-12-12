@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="firstLineColor" format="color"/>
+    <attr name="secondLineColor" format="color"/>
+    <attr name="firstLineHeight" format="dimension"/>
+    <attr name="secondLineHeight" format="dimension"/>
+    <attr name="textSize" format="dimension"/>
+    <attr name="textColor" format="color"/>
+    <declare-styleable name="HorizontalTimeLine">
+        <attr name="firstLineColor"/>
+        <attr name="secondLineColor"/>
+        <attr name="firstLineHeight"/>
+        <attr name="secondLineHeight"/>
+        <attr name="textSize"/>
+        <attr name="textColor"/>
+    </declare-styleable>
+
+</resources>
+
